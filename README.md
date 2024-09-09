@@ -9,7 +9,7 @@ Features
 •	Service Management: Manage additional services offered by the hotel.
 •	Item Management: Track items available in each chalet.
 
--------------------------//---------------------------//---------------------------//----------------------------------//----------------------------//-------------------------
+---------------------//------------------------//-------------------//-------------------------//------------------------//---------------------
 
 Project Structure
 
@@ -50,7 +50,7 @@ UI classes provide graphical forms for user interactions:
 Utility classes provide additional functionality:
 •	DateUtils.java - Utility functions for date manipulation.
 
--------------------------//---------------------------//---------------------------//----------------------------------//----------------------------//-------------------------
+---------------------//------------------------//-------------------//-------------------------//------------------------//---------------------
 
 Getting Started
 Follow these steps to set up and run the Hotel Management System:
