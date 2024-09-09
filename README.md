@@ -74,7 +74,7 @@ Follow these steps to set up and run the Hotel Management System:
 
 - 3---> **Run the Application Execute the JAR file or run the main class to start the application. Ensure that all dependencies are correctly configured.**
 
-## Stack utilizada
+## Stack 
 
 **JAVA** 
 
