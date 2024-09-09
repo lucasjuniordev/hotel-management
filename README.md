@@ -81,7 +81,7 @@ Follow these steps to set up and run the Hotel Management System:
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVRVmkFBJj_2s5x9A2TGin3eRgL97jsmx4Aw&s)
 
-## Autores
+## Author
 
 - [@LucasJunior](https://github.com/lucasjuniordev)
 
